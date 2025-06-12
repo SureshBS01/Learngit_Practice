@@ -1,0 +1,15 @@
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\bin\Debug\net8.0\Git_Homework.exe
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\bin\Debug\net8.0\Git_Homework.deps.json
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\bin\Debug\net8.0\Git_Homework.runtimeconfig.json
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\bin\Debug\net8.0\Git_Homework.dll
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\bin\Debug\net8.0\Git_Homework.pdb
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.AssemblyInfoInputs.cache
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.AssemblyInfo.cs
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.csproj.CoreCompileInputs.cache
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.sourcelink.json
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.dll
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\refint\Git_Homework.dll
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.pdb
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\Git_Homework.genruntimeconfig.cache
+C:\Users\bssur\source\repos\Learngit_Practice\Git_Homework\Git_Homework\obj\Debug\net8.0\ref\Git_Homework.dll
