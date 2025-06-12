@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,10 +53,6 @@
               "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -64,7 +60,7 @@
               "RelativeDocumentMoniker": "Git_Homework\\Program.cs",
               "ToolTip": "C:\\Users\\bssur\\source\\repos\\Learngit_Practice\\Git_Homework\\Git_Homework\\Program.cs",
               "RelativeToolTip": "Git_Homework\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T11:35:44.969Z",
               "EditorCaption": ""
