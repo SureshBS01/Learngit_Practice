@@ -49,5 +49,12 @@ namespace Git_Homework
 
             return true;
         }
+
+        static List<int> GenerateFibonnacciSeries()
+        {
+            List<int> fibNumbers = new List<int>();
+            return fibNumbers;
+        }
+
     }
 }
