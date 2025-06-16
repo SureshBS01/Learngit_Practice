@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Git_Homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfce5eaa9395f3e491426860d10d77a161bc534f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb97c2eb391c9cf43db3a4a75b9591f9f71d41b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Git_Homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Git_Homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
